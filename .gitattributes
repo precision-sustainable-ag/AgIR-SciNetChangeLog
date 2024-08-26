@@ -1,1 +1,2 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+semifield-developed-images/MD_2022-07-20/metadata/*.json filter=lfs diff=lfs merge=lfs -text
